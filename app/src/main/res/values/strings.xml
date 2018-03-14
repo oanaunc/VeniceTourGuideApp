@@ -1,0 +1,183 @@
+<resources>
+    <string name="app_name">Venice Tour Guide</string>
+
+
+    <!-- Strings for categoies-->
+    <string name="category_monuments">Monuments</string>
+    <string name="category_bridges">Bridges</string>
+    <string name="category_pizza">Pizzeria</string>
+    <string name="category_iceCream">Ice Cream</string>
+
+    <!-- Details for Monument - 1 -->
+    <string name="monument1name">St. Mark\'s Square</string>
+    <string name="monument1address">Piazza San Marco, 31024</string>
+
+    <!-- Details for Monument - 2 -->
+    <string name="monument2name">Basilica di San Marco</string>
+    <string name="monument2address">San Marco 328, 30124</string>
+
+    <!-- Details for Monument - 3 -->
+    <string name="monument3name">Chiesa di Santa Maria Assunta detta I Gesuiti</string>
+    <string name="monument3address">Salizada de la Spechiera</string>
+
+    <!-- Details for Monument - 4 -->
+    <string name="monument4name">Torre dell\'Orologio</string>
+    <string name="monument4address">Piazza San Marco</string>
+
+    <!-- Details for Monument - 5 -->
+    <string name="monument5name">Scuola Grande di San Marco</string>
+    <string name="monument5address">Fondamenta Mendicanti 6776, 30122</string>
+
+    <!-- Details for Monument - 6 -->
+    <string name="monument6name">Peggy Guggenheim Collection</string>
+    <string name="monument6address">Just East Accademia Along Gran Canal, 30123</string>
+
+    <!-- Details for Monument - 7 -->
+    <string name="monument7name">Chiesa di San Zaccaria</string>
+    <string name="monument7address">Campo S. Zaccaria, 4693, 30122</string>
+
+    <!-- Details for Monument - 8 -->
+    <string name="monument8name">Basilica dei Santi Giovanni e Paolo (San Zanipolo)</string>
+    <string name="monument8address">Campo SS. Giovanni e Paolo, 6363</string>
+
+    <!-- Details for Monument - 9 -->
+    <string name="monument9name">Scala Contarini del Bovolo</string>
+    <string name="monument9address">San Marco, 4303, 30124</string>
+
+    <!-- Details for Monument - 10 -->
+    <string name="monument10name">Campo Santa Margherita</string>
+    <string name="monument10address">Sestiere di Dorsoduro</string>
+
+    <!-- Details for Monument - 11 -->
+    <string name="monument11name">Campo San Barnaba</string>
+    <string name="monument11address">Dorsoduro</string>
+
+    <!-- Details for Monument - 12 -->
+    <string name="monument12name">Riva degli Schiavoni</string>
+    <string name="monument12address">Between Doge\'s Palace and the Arsenale</string>
+
+
+    <!-- Names for Bridges  -->
+    <string name="bridge1name">Ponte di Rialto</string>
+    <string name="bridge2name">Ponte dell\'Accademia</string>
+    <string name="bridge3name">Ponte dei Sospiri</string>
+    <string name="bridge4name">Ponte della Paglia</string>
+    <string name="bridge5name">Ponte degli Scalzi</string>
+    <string name="bridge6name">Ponte dei Pugni</string>
+    <string name="bridge7name">Ponte del Chiodo</string>
+    <string name="bridge8name">Ponte delle Guglie</string>
+    <string name="bridge9name">Ponte della Liberta</string>
+    <string name="bridge10name">Ponte delle Tette</string>
+    <string name="bridge11name">Ponte dei Fuseri</string>
+    <string name="bridge12name">Ponte del Purgatorio</string>
+    <string name="bridge13name">Ponte del Gaffaro</string>
+    <string name="bridge14name">Ponte Sant\’Antonin</string>
+    <string name="bridge15name">Ponte del Cristo</string>
+    <string name="bridge16name">Ponte de le Meravegie</string>
+
+    <!-- Details for Pizzeria - 1 -->
+    <string name="pizza1name">Pizza Al Volo</string>
+    <string name="pizza1address">Campo Santa Margherita 2944/a</string>
+    <string name="pizza1phone">Tel: +39 041 522 5430</string>
+
+    <!-- Details for Pizzeria - 2 -->
+    <string name="pizza2name">Pizza 2000</string>
+    <string name="pizza2address">Campo Sant\'Agostin - San Polo, 2287, 30125</string>
+    <string name="pizza2phone">Tel: +39 041 720028</string>
+
+    <!-- Details for Pizzeria - 3 -->
+    <string name="pizza3name">Antico Forno</string>
+    <string name="pizza3address">Calle de L\'ogio o de la Rugheta, 970/973 | Vicino al Ponte di Rialto, 30125</string>
+    <string name="pizza3phone">Tel: +39 041 520 4110</string>
+
+    <!-- Details for Pizzeria - 4 -->
+    <string name="pizza4name">Crazy Pizza</string>
+    <string name="pizza4address">5706, Castello</string>
+    <string name="pizza4phone">Tel: +39 041 241 0090</string>
+
+    <!-- Details for Pizzeria - 5 -->
+    <string name="pizza5name">Farini</string>
+    <string name="pizza5address">Sestiere Castello 5602 | C/o campo San Lio, 30125</string>
+    <string name="pizza5phone">Tel: +39 041 241 1899</string>
+
+    <!-- Details for Pizzeria - 6 -->
+    <string name="pizza6name">Pizzeria Megaone</string>
+    <string name="pizza6address">Sestiere San Marco 5367, 30124</string>
+    <string name="pizza6phone">Tel: +39 340 574 6094</string>
+
+    <!-- Details for Pizzeria - 7 -->
+    <string name="pizza7name">Al Vecio Canton</string>
+    <string name="pizza7address">Castello 4738A, 30122</string>
+    <string name="pizza7phone">Tel: +39 041 528 7143</string>
+
+    <!-- Details for Pizzeria - 8 -->
+    <string name="pizza8name">Pizzeria Ristorante Al Profeta</string>
+    <string name="pizza8address">Calle Longa de San Barnaba Dorsoduro 2671, 30123</string>
+    <string name="pizza8phone">Tel: +39 041 523 7466</string>
+
+    <!-- Details for Pizzeria - 9 -->
+    <string name="pizza9name">Ristorante Pizzeria Dolfin</string>
+    <string name="pizza9address">Salizada San Pantalon Santa Croce 81, 30135</string>
+    <string name="pizza9phone">Tel: +39 041 275 9338</string>
+
+    <!-- Details for Pizzeria - 10 -->
+    <string name="pizza10name">Ai Garzoti</string>
+    <string name="pizza10address">Sestiere Santa Croce 890, 30135</string>
+    <string name="pizza10phone">Tel: +39 041 716636</string>
+
+    <!-- Details for Ice Cream  -->
+
+    <!-- Details for Ice Cream - 1 -->
+    <string name="icecream1name">San Stae</string>
+    <string name="icecream1address">Fontego delle Dolcezze, Santa Croce 1910, Salizada San Stae.</string>
+    <string name="icecream1phone">Tel: 041.721424</string>
+
+    <!-- Details for Ice Cream - 2 -->
+    <string name="icecream2name">Gelato Fantasy</string>
+    <string name="icecream2address">Calle dei Fabbri, 929, S.Marco.</string>
+    <string name="icecream2phone">Tel: 041.5225993</string>
+
+    <!-- Details for Ice Cream - 3 -->
+    <string name="icecream3name">Il Doge</string>
+    <string name="icecream3address">Dorsoduro 3058/a Campo S. Margherita.</string>
+    <string name="icecream3phone">Tel: 339.1482164</string>
+
+    <!-- Details for Ice Cream - 4 -->
+    <string name="icecream4name">Da Nico</string>
+    <string name="icecream4address">Zattere/Dorsoduro.</string>
+    <string name="icecream4phone">Tel: 041.5225293</string>
+
+    <!-- Details for Ice Cream - 5 -->
+    <string name="icecream5name">La Mela Verde</string>
+    <string name="icecream5address">Fondamenta de l\'osmarin Castello 4977.</string>
+    <string name="icecream5phone">Tel: 349.1957924</string>
+
+    <!-- Details for Ice Cream - 6 -->
+    <string name="icecream6name">La Boutique del Gelato</string>
+    <string name="icecream6address">Salizzada San Lio, Castello 5727.</string>
+    <string name="icecream6phone">Tel: 041.5223283</string>
+
+    <!-- Details for Ice Cream - 7 -->
+    <string name="icecream7name">White</string>
+    <string name="icecream7address">San Polo 480 Ruga Vecchia San Giovanni 30125.</string>
+    <string name="icecream7phone">Tel: 041.5285109</string>
+
+    <!-- Details for Ice Cream - 8 -->
+    <string name="icecream8name">Gelateria Ca\’ D’oro</string>
+    <string name="icecream8address">Via Cannaregio 4273.</string>
+    <string name="icecream8phone">Tel: 041.5228982</string>
+
+    <!-- Details for Ice Cream - 9 -->
+    <string name="icecream9name">Gelato di Natura</string>
+    <string name="icecream9address">San Giacomo dall\'Orio S. Croce 1628.</string>
+    <string name="icecream9phone">Tel: 340.2867178</string>
+
+    <!-- Details for Ice Cream - 10 -->
+    <string name="icecream10name">Suso Gelatoteca</string>
+    <string name="icecream10address">San Marco 5453 Calle della Bissa.</string>
+    <string name="icecream10phone">Tel: 348.5646545</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
