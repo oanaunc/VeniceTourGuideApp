@@ -27,5 +27,48 @@
     <item name="android:textColor">@color/tabTextColor</item>
     </style>
 
+    <!-- Style for linear layout -->
+    <style name="LinearLayoutStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/darkBackground</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:padding">@dimen/padding</item>
+    </style>
+
+    <!-- Style for image view -->
+    <style name="ImageViewStyle">
+        <item name="android:layout_width">@dimen/list_item_height</item>
+        <item name="android:layout_height">@dimen/list_item_height</item>
+        <item name="android:background">@drawable/image_border</item>
+    </style>
+
+    <!-- Style for name view -->
+    <style name="NameViewStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_toRightOf">@+id/image</item>
+        <item name="android:paddingLeft">@dimen/padding</item>
+        <item name="android:textAppearance">?android:textAppearanceLarge</item>
+        <item name="android:textColor">@color/name_text</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Style for address view -->
+    <style name="AddressViewStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingTop">@dimen/padding</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textColor">@color/address_text</item>
+    </style>
+
+    <!-- Style for phone view -->
+    <style name="PhoneViewStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textColor">@color/phone_text</item>
+    </style>
 
 </resources>

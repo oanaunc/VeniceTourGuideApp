@@ -3,16 +3,15 @@ package com.oanaunciuleanu.venicetourguide;
 
 import android.content.Context;
 import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
-
-import java.util.ArrayList;
 
 
 public class CategoryAdapter extends FragmentPagerAdapter {
 
-    /** Context of the app */
+    /**
+     * Context of the app
+     */
     private Context mContext;
 
 
@@ -20,7 +19,6 @@ public class CategoryAdapter extends FragmentPagerAdapter {
         super(fm);
         mContext = context;
     }
-
 
     /**
      * Return the {@link Fragment} that should be displayed for the given page number.

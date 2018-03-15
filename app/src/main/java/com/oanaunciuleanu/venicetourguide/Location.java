@@ -2,26 +2,36 @@ package com.oanaunciuleanu.venicetourguide;
 
 public class Location {
 
-    /** String resource ID for the name */
-    private int mName;
+    /**
+     * String resource ID for the name
+     */
+    private String mName;
 
-    /** String resource ID for the address */
-    private int mAddress;
+    /**
+     * String resource ID for the address
+     */
+    private String mAddress;
 
-    /** String resource ID for the phone number */
-    private int mPhone;
+    /**
+     * String resource ID for the phone number
+     */
+    private String mPhone;
 
-    /** Image resource ID for the word */
+    /**
+     * Image resource ID for the word
+     */
     private int mImage;
 
-    private int mImageResourceId = NO_IMAGE_PROVIDED;
 
-    /** Constant value that represents no image was provided for this word */
-    private static final int NO_IMAGE_PROVIDED = -1;
+    /**
+     * Constant value that represents no image was provided for this word
+     */
+    private static final String NO_VALUE_PROVIDED = null;
+
 
     // Create a new Location object for the Monuments page
 
-    public Location(int mName, int mAddress, int mImage) {
+    public Location(String mName, String mAddress, int mImage) {
         this.mName = mName;
         this.mAddress = mAddress;
         this.mImage = mImage;
@@ -29,14 +39,14 @@ public class Location {
 
     // Create a new Location object for the Bridge page
 
-    public Location(int mName, int mImage) {
+    public Location(String mName, int mImage) {
         this.mName = mName;
         this.mImage = mImage;
     }
 
     // Create a new Location object for the Pizza and Ice Cream page
 
-    public Location(int mName, int mAddress, int mPhone, int mImage) {
+    public Location(String mName, String mAddress, String mPhone, int mImage) {
         this.mName = mName;
         this.mAddress = mAddress;
         this.mPhone = mPhone;
@@ -47,7 +57,7 @@ public class Location {
      * Get the string resource ID for the name.
      */
 
-    public int getmName() {
+    public String getmName() {
         return mName;
     }
 
@@ -55,7 +65,7 @@ public class Location {
      * Get the string resource ID for the address.
      */
 
-    public int getmAddress() {
+    public String getmAddress() {
         return mAddress;
     }
 
@@ -63,7 +73,7 @@ public class Location {
      * Get the string resource ID for the phone number.
      */
 
-    public int getmPhone() {
+    public String getmPhone() {
         return mPhone;
     }
 
@@ -75,7 +85,12 @@ public class Location {
         return mImage;
     }
 
-    public boolean hasImage() {
-        return mImageResourceId != NO_IMAGE_PROVIDED;
+    public boolean hasAddress() {
+        return mAddress != NO_VALUE_PROVIDED;
     }
+
+    public boolean hasPhone() {
+        return mPhone != NO_VALUE_PROVIDED;
+    }
+
 }

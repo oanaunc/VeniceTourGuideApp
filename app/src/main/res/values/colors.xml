@@ -12,9 +12,4 @@
     <color name="address_text">#7b885c</color>
     <color name="phone_text">#037365</color>
 
-
-    <!-- Background color for the colors category -->
-    <color name="category_colors">#8800A0</color>
-
-
 </resources>

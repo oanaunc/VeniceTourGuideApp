@@ -3,10 +3,10 @@
 
 
     <!-- Strings for categoies-->
-    <string name="category_monuments">Monuments</string>
+    <string name="category_monuments">Sights</string>
     <string name="category_bridges">Bridges</string>
     <string name="category_pizza">Pizzeria</string>
-    <string name="category_iceCream">Ice Cream</string>
+    <string name="category_iceCream">Gelato</string>
 
     <!-- Details for Monument - 1 -->
     <string name="monument1name">St. Mark\'s Square</string>
@@ -97,7 +97,7 @@
 
     <!-- Details for Pizzeria - 5 -->
     <string name="pizza5name">Farini</string>
-    <string name="pizza5address">Sestiere Castello 5602 | C/o campo San Lio, 30125</string>
+    <string name="pizza5address">Sestiere Castello 5602 | Campo San Lio, 30125</string>
     <string name="pizza5phone">Tel: +39 041 241 1899</string>
 
     <!-- Details for Pizzeria - 6 -->
